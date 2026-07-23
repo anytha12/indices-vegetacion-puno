@@ -53,15 +53,7 @@ SRTM
 
 Google Earth Engine
 
-Archivos principales
 
-analisis_puno.R: código principal del análisis
-
-base_puno_2020_2025.csv: base de datos utilizada
-
-README.md: descripción del proyecto
-
-.gitignore: archivos que Git no debe subir
 
 Paquetes de R utilizados
 
